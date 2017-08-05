@@ -12,9 +12,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         int i = 0;
         int j = 2;
-        int k = 1;
-        int bbb = 0;
-        int ll = 9;
+        int k = 3;
+
         System.out.print("sdashgdjagsjfgasjfgjadgsfhgasjfgasjjg");
 
     }
