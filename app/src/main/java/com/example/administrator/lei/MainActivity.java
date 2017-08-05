@@ -17,6 +17,10 @@ public class MainActivity extends AppCompatActivity {
         System.out.print("sdashgdjagsjfgasjfgjadgsfhgasjfgasjjg");
 
         int daksdjasjda;
+        if(i<0)
+        {
+            i++;
+        }
 
         int dasjdlj;
 
