@@ -1,5 +1,6 @@
 package com.example.administrator.lei;
 
+import android.provider.Settings;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
@@ -14,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
         int k = 1;
         int bbb = 0;
         int ll = 9;
+        System.out.print("dadsa");
 
     }
 }
